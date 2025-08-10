@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nazar</h1>
 <br>
-<h3 align="center">I am Ukrainian Cloud and Security enthusiast, trying to improve my skills and proceed further in my studies</h3>
+<h3 align="center">I am Ukrainian Cloud Security and DevSecOps enthusiast, trying to improve my skills and proceed further in my studies</h3>
 
 - Learning **AWS Solution Architectures, AWS security tools and Cyber Security Fundamentals**
 - Studying CyberCrime and IT Security Bachelors Degree in SETU Carlow**
