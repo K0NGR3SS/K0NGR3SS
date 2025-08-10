@@ -4,8 +4,9 @@
 
 - Learning **AWS Solution Architectures, AWS security tools and Cyber Security Fundamentals**
 - Studying CyberCrime and IT Security in SETU Carlow**
+<br>
 
-- All of my projects are available at [https://github.com/K0NGR3SS](https://github.com/K0NGR3SS)
+All of my projects are available at [https://github.com/K0NGR3SS](https://github.com/K0NGR3SS)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
