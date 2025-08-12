@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nazar</h1>
+<h1 align="center">Hi, I'm Nazar</h1>
 <br>
 <h3 align="center">I am Ukrainian Cloud Security and DevSecOps enthusiast, trying to improve my skills and proceed further in my studies.</h3>
 
