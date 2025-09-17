@@ -14,7 +14,7 @@ All of my projects are available at [https://github.com/K0NGR3SS](https://github
 <a href="https://www.linkedin.com/in/nazariy-buryak-778433350/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazariy buryak" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Currently Using:</h3>
+<h3 align="left">Current Stack:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -33,7 +33,7 @@ All of my projects are available at [https://github.com/K0NGR3SS](https://github
   </a> 
 </p>
 
-<h3 align="left">Currently Learning:</h3>
+<h3 align="left">Currently Practising:</h3>
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
