@@ -33,7 +33,7 @@ All of my projects are available at [https://github.com/K0NGR3SS](https://github
   </a> 
 </p>
 
-<h3 align="left">Currently Practising:</h3>
+<h3 align="left">In Progress:</h3>
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
