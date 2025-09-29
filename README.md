@@ -18,6 +18,9 @@ All of my projects are available at [https://github.com/K0NGR3SS](https://github
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> 
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -58,8 +61,5 @@ All of my projects are available at [https://github.com/K0NGR3SS](https://github
   </a> 
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> 
   </a> 
 </p>
