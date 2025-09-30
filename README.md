@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nazar</h1>
 <br>
-<h3 align="center">I am Ukrainian Cyber Security, Cloud Security enthusiast, trying to improve my skills and proceed further in my studies.</h3>
+<h3 align="center">I am Ukrainian Cyber Security/Cloud Security enthusiast, trying to improve my skills and proceed further in my studies.</h3>
 
 - Working in **Cohort** on ambitious project as **Cloud Infrastructure & DevOps Engineer**
 - Learning **AWS Solution Architectures, AWS security tools , DevSecOps and Cyber Security Fundamentals**
