@@ -62,6 +62,6 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   </a> 
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://holori.com/wp-content/uploads/2021/05/GCP.png" alt="gcp" width="120" height="40"/> 
+    <img src="https://brandlogos.net/wp-content/uploads/2022/07/google_cloud-logo_brandlogos.net_qxnsy-512x512.png" alt="gcp" width="40" height="40"/> 
   </a> 
 </p>
