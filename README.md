@@ -3,7 +3,7 @@
 <h3 align="center">I am Ukrainian Cyber Security/Cloud Security enthusiast passionate about security engineering and cloud security, working on open-source tools and solutions.</h3>
 
 - Working in **Cohort** on ambitious project as **Cloud Infrastructure & DevOps Engineer**
-- Learning **AWS Solution Architectures, AWS security tools , DevSecOps and Cyber Security Fundamentals**
+- Learning **Serverless Solution Architectures, Cloud Security tools , DevSecOps and Networking**
 - Studying **CyberCrime and IT Security Bachelors Degree in SETU Carlow**
 
 <br>
