@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nazariy-buryak-778433350/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazariy buryak" height="30" width="40" /></a>
-<a href="https://d1w722xkr0hjh5.cloudfront.net/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/geography.png" alt="personal website" height="30" width="30" /></a>
+<a href="https://d1w722xkr0hjh5.cloudfront.net/" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/10102/10102024.png?semt=ais_white_label" alt="personal website" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Programming Languages:</h3>
