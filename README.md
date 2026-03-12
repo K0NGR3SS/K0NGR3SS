@@ -9,8 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nazariy-buryak-778433350/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazariy buryak" height="30" width="40" /></a>
-<a href="https://d1w722xkr0hjh5.cloudfront.net/" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/10102/10102024.png?semt=ais_white_label" alt="personal website" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/nazariy-buryak-778433350/" target="blank"><img title="LinkedIn" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazariy buryak" height="30" width="40" /></a>
+<a href="https://d1w722xkr0hjh5.cloudfront.net/" target="blank"><img title="Personal Portfolio" align="center" src="https://cdn-icons-png.freepik.com/256/10102/10102024.png?semt=ais_white_label" alt="personal website" height="30" width="30" /></a>
+<a href="https://tryhackme.com/p/K0NGR3SS" target="blank"><img title="TryHackMe" align="center" src="https://assets.tryhackme.com/img/favicon.png" alt="tryhackme" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Programming Languages:</h3>
@@ -39,17 +40,31 @@
   <img title="SonarQube" src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" alt="sonarqube" width="40" height="40"/>
 </p>
 
-<h3 align="left">Cyber Security Tools:</h3>
+<h3 align="left">Penetration Testing:</h3>
 <p align="left">
-  <img title="Wireshark — Network Protocol Analyzer" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="wireshark" width="40" height="40"/>
-  <img title="Nmap — Network Scanner & Port Scanner" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" alt="nmap" width="40" height="40"/>
-  <img title="Burp Suite — Web Vulnerability Scanner" src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F3053%2FPNG%2F512%2Fburp_suite_macos_bigsur_icon_190319.png&id=190319&pack_or_individual=pack" alt="burpsuite" width="40" height="40"/>
-  <img title="Metasploit — Penetration Testing Framework" src="https://dashboard.snapcraft.io/site_media/appmedia/2022/08/metasploit-framework-logo.svg.png" alt="metasploit" width="40" height="40"/>
-  <img title="Hydra — Network Login Brute-Force Tool" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="40" height="40"/>
-  <img title="OWASP ZAP — Web Application Security Scanner" src="https://www.zaproxy.org/docs/api/images/logo.png" alt="owasp zap" width="40" height="40"/>
-  <img title="Tenable Nessus — Vulnerability Scanner" src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/blog/logo_Nessus_FullColor_RGB-01.png" alt="nessus" width="120" height="40"/>
-  <img title="Nikto — Web Server Vulnerability Scanner" src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" alt="nikto" width="40" height="40"/>
-  <img title="Ettercap — Network Sniffer & Man-in-the-Middle Tool" src="https://www.kali.org/tools/ettercap/images/ettercap-logo.svg" alt="ettercap" width="40" height="40"/>
+  <img title="Metasploit" src="https://dashboard.snapcraft.io/site_media/appmedia/2022/08/metasploit-framework-logo.svg.png" alt="metasploit" width="40" height="40"/>
+  <img title="Burp Suite" src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F3053%2FPNG%2F512%2Fburp_suite_macos_bigsur_icon_190319.png&id=190319&pack_or_individual=pack" alt="burpsuite" width="40" height="40"/>
+  <img title="Hydra" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="40" height="40"/>
+  <img title="OWASP ZAP" src="https://www.zaproxy.org/docs/api/images/logo.png" alt="owasp zap" width="40" height="40"/>
+</p>
+
+<h3 align="left">Vulnerability Scanning:</h3>
+<p align="left">
+  <img title="Nessus" src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/blog/logo_Nessus_FullColor_RGB-01.png" alt="nessus" width="140" height="40"/>
+  <img title="Nikto" src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" alt="nikto" width="40" height="40"/>
+  <img title="Nmap" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" alt="nmap" width="65" height="40"/>
+</p>
+
+<h3 align="left">Network Analysis & Sniffing:</h3>
+<p align="left">
+  <img title="Wireshark" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="wireshark" width="40" height="40"/>
+  <img title="Ettercap" src="https://www.kali.org/tools/ettercap/images/ettercap-logo.svg" alt="ettercap" width="40" height="40"/>
+</p>
+
+<h3 align="left">Monitoring & Dashboards:</h3>
+<p align="left">
+  <img title="Grafana" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
+  <img title="Splunk" src="https://www.splunk.com/content/dam/splunk2/images/Planet-Splunk.png" alt="splunk" width="40" height="40"/>
 </p>
 
 <h3 align="left">Databases:</h3>
@@ -68,5 +83,5 @@
 
 <h3 align="left">Network Providers:</h3>
 <p align="left">
-  <img title="Cisco — Networking & Security Solutions" src="https://translatorswithoutborders.org/wp-content/uploads/2021/12/Cisco-logo.png" alt="cisco" width="40" height="40"/>
+  <img title="Cisco" src="https://translatorswithoutborders.org/wp-content/uploads/2021/12/Cisco-logo.png" alt="cisco" width="40" height="40"/>
 </p>
