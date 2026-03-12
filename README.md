@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Nazar</h1>
 <br>
-<h3 align="center">I am Ukrainian Cyber Security/Cloud Security enthusiast passionate about security engineering and cloud security, working on open-source tools and solutions.</h3>
+<h3 align="center">I am Ukrainian Cyber Security/Cloud Security enthusiast passionate about security engineering, cloud security, security analysis and blue teaming, working on open-source tools and solutions.</h3>
 
-- Working in **Cohort** on ambitious project as **Cloud Infrastructure & DevOps Engineer**
-- Learning **Serverless Solution Architectures, Cloud Security tools , DevSecOps and Networking**
+- Learning **Security Analytics, Networking,Cloud Security, Serverless Architectures and DevSecOps**
 - Studying **CyberCrime and IT Security Bachelors Degree in SETU Carlow**
 
 <br>
@@ -16,49 +15,58 @@
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img title="Terraform" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+  <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img title="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  <img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img title="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/>
+  <img title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img title="Assembly 68k (Motorola 68000)" src="https://www.svgrepo.com/show/373445/assembly.svg" alt="assembly 68k" width="40" height="40"/>
 </p>
 
 <h3 align="left">Cloud & DevOps:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" alt="sonarqube" width="40" height="40"/>
+  <img title="Amazon Web Services (AWS)" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img title="Google Cloud Platform (GCP)" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
+  <img title="Microsoft Azure" src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure" width="40" height="40"/>
+  <img title="Kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  <img title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img title="Jenkins" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
+  <img title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img title="SonarQube" src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" alt="sonarqube" width="40" height="40"/>
 </p>
 
 <h3 align="left">Cyber Security Tools:</h3>
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="wireshark" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" alt="nmap" width="40" height="40"/>
-  <img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F3053%2FPNG%2F512%2Fburp_suite_macos_bigsur_icon_190319.png&id=190319&pack_or_individual=pack" alt="burpsuite" width="40" height="40"/>
-  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2022/08/metasploit-framework-logo.svg.png" alt="metasploit" width="40" height="40"/>
-  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="40" height="40"/>
-  <img src="https://www.zaproxy.org/docs/api/images/logo.png" alt="owasp zap" width="40" height="40"/>
+  <img title="Wireshark — Network Protocol Analyzer" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="wireshark" width="40" height="40"/>
+  <img title="Nmap — Network Scanner & Port Scanner" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" alt="nmap" width="40" height="40"/>
+  <img title="Burp Suite — Web Vulnerability Scanner" src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F3053%2FPNG%2F512%2Fburp_suite_macos_bigsur_icon_190319.png&id=190319&pack_or_individual=pack" alt="burpsuite" width="40" height="40"/>
+  <img title="Metasploit — Penetration Testing Framework" src="https://dashboard.snapcraft.io/site_media/appmedia/2022/08/metasploit-framework-logo.svg.png" alt="metasploit" width="40" height="40"/>
+  <img title="Hydra — Network Login Brute-Force Tool" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="40" height="40"/>
+  <img title="OWASP ZAP — Web Application Security Scanner" src="https://www.zaproxy.org/docs/api/images/logo.png" alt="owasp zap" width="40" height="40"/>
+  <img title="Tenable Nessus — Vulnerability Scanner" src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/blog/logo_Nessus_FullColor_RGB-01.png" alt="nessus" width="120" height="40"/>
+  <img title="Nikto — Web Server Vulnerability Scanner" src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" alt="nikto" width="40" height="40"/>
+  <img title="Ettercap — Network Sniffer & Man-in-the-Middle Tool" src="https://www.kali.org/tools/ettercap/images/ettercap-logo.svg" alt="ettercap" width="40" height="40"/>
 </p>
 
 <h3 align="left">Databases:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
+  <img title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
 </p>
 
 <h3 align="left">Operating Systems:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" alt="macos" width="40" height="40"/>
+  <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+  <img title="macOS" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" alt="macos" width="40" height="40"/>
+</p>
+
+<h3 align="left">Network Providers:</h3>
+<p align="left">
+  <img title="Cisco — Networking & Security Solutions" src="https://translatorswithoutborders.org/wp-content/uploads/2021/12/Cisco-logo.png" alt="cisco" width="40" height="40"/>
 </p>
