@@ -10,7 +10,7 @@ Ukrainian · Building secure infrastructure at scale · Open-source security too
     <img title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" width="36"/>
   </a>
   &nbsp;
-  <a href="https://d1w722xkr0hjh5.cloudfront.net/" target="_blank">
+  <a href="https://cybernaz.eu" target="_blank">
     <img title="Personal Portfolio" src="https://cdn-icons-png.freepik.com/256/10102/10102024.png?semt=ais_white_label" height="28" width="28"/>
   </a>
   &nbsp;
