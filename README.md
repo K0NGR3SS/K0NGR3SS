@@ -289,6 +289,7 @@ Cybersecurity student at **SETU Carlow** focused on security engineering, cloud 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K0NGR3SS&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0NGR3SS&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0NGR3SS&theme=github_dark" height="160"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K0NGR3SS&theme=github_dark" height="160"/>
 </div>
