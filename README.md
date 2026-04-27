@@ -27,56 +27,26 @@ Cybersecurity student at **SETU Carlow** focused on security engineering, cloud 
 
 **Recent highlight:** Team Captain @ ZeroDays CTF 2026 · **5th/71 college teams · 18th/141 overall** (Croke Park, Dublin)
 
+**🇮🇪 Irish National Cybersecurity Team candidate** — training in-person & online alongside the squad, coached by the team's official coaches and managers, competing for a spot to represent Ireland at **ECSC 2026**
+
 ---
 
 ## 🛡️ Technical Skills
 
-> Click a role below to expand tools, technologies, and key areas.
-
-<details open>
-<summary>☁️ &nbsp;<strong>Cloud Security</strong></summary>
-<br/>
-
-**Cloud Platforms**
+**☁️ Cloud Security**
 
 <p>
   <img title="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   <img title="GCP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
   <img title="Azure" src="https://swimburger.net/media/ppnn3pcl/azure.png" width="40" height="40"/>
-</p>
-
-**Infrastructure & Containers**
-
-<p>
   <img title="Terraform" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/>
   <img title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
   <img title="Kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-</p>
-
-**Languages**
-
-<p>
   <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img title="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
-  <img title="HCL / Terraform" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/>
 </p>
 
-**Key Areas**
-- AWS infrastructure security (VPC, IAM, S3, Lambda, CloudTrail)
-- GCP security configuration & hardening
-- Container security & orchestration hardening
-- Infrastructure as Code security scanning
-- Cloud-native CI/CD pipeline security
-
-</details>
-
----
-
-<details>
-<summary>🛡️ &nbsp;<strong>Security Engineering</strong></summary>
-<br/>
-
-**Languages**
+**🛡️ Security Engineering**
 
 <p>
   <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
@@ -86,190 +56,68 @@ Cybersecurity student at **SETU Carlow** focused on security engineering, cloud 
   <img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
   <img title="Assembly 68k" src="https://www.svgrepo.com/show/373445/assembly.svg" width="40" height="40"/>
-</p>
-
-**Operating Systems**
-
-<p>
   <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
   <img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" height="40"/>
   <img title="macOS" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" width="40" height="40"/>
-</p>
-
-**Databases**
-
-<p>
   <img title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-</p>
-
-**Networking**
-
-<p>
   <img title="Cisco" src="https://translatorswithoutborders.org/wp-content/uploads/2021/12/Cisco-logo.png" width="40" height="40"/>
   <img title="Nginx" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
 </p>
 
-**Key Areas**
-- Security tooling development (CLI & TUI)
-- System hardening & configuration
-- Security automation & scripting
-- Secure coding practices & code review
-- Network security & troubleshooting
-
-</details>
-
----
-
-<details>
-<summary>🔍 &nbsp;<strong>SOC Analysis</strong></summary>
-<br/>
-
-**SIEM & Monitoring**
+**🔍 SOC Analysis**
 
 <p>
   <img title="Splunk" src="https://www.splunk.com/content/dam/splunk2/images/Planet-Splunk.png" width="40" height="40"/>
   <img title="Grafana" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" height="40"/>
   <img title="Prometheus" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" height="40"/>
-</p>
-
-**Network Analysis**
-
-<p>
   <img title="Wireshark" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" width="40" height="40"/>
-  <img title="Ettercap" src="https://www.kali.org/tools/ettercap/images/ettercap-logo.svg" width="40" height="40"/>
   <img title="Nmap" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" width="40" height="40"/>
-</p>
-
-**Defence & Response**
-
-<p>
   <img title="Fail2Ban" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Fail2ban_logo.png" width="40" height="40"/>
+  <img title="Lynis" src="https://avatars.githubusercontent.com/u/8558546?s=280&v=4" width="40" height="40"/>
   <img title="Nessus" src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/blog/logo_Nessus_FullColor_RGB-01.png" height="40"/>
-</p>
-
-**Scripting**
-
-<p>
   <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img title="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
 </p>
 
-**Key Areas**
-- Log analysis & correlation
-- Threat detection & incident triage
-- Network traffic analysis & packet inspection
-- Intrusion detection & prevention
-- Vulnerability assessment & reporting
-- Security event monitoring & dashboarding
-
-</details>
-
----
-
-<details>
-<summary>🐛 &nbsp;<strong>Penetration Testing</strong></summary>
-<br/>
-
-**Exploitation**
+**🐛 Penetration Testing**
 
 <p>
   <img title="Metasploit" src="https://dashboard.snapcraft.io/site_media/appmedia/2022/08/metasploit-framework-logo.svg.png" width="40" height="40"/>
   <img title="Hydra" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="40" height="40"/>
   <img title="SQLmap" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="40" height="40"/>
-</p>
-
-**Web Application Testing**
-
-<p>
   <img title="Burp Suite" src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F3053%2FPNG%2F512%2Fburp_suite_macos_bigsur_icon_190319.png&id=190319&pack_or_individual=pack" width="40" height="40"/>
   <img title="OWASP ZAP" src="https://www.zaproxy.org/docs/api/images/logo.png" width="40" height="40"/>
   <img title="Gobuster" src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="40" height="40"/>
-</p>
-
-**Reconnaissance & Network**
-
-<p>
   <img title="Nmap" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" width="40" height="40"/>
   <img title="Wireshark" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" width="40" height="40"/>
   <img title="Nikto" src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="40" height="40"/>
   <img title="Ettercap" src="https://www.kali.org/tools/ettercap/images/ettercap-logo.svg" width="40" height="40"/>
-</p>
-
-**PWN & Binary Exploitation**
-
-<p>
   <img title="Ghidra" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/1280px-Ghidra_logo.svg.png" width="40" height="40"/>
   <img title="radare2" src="https://www.kali.org/tools/radare2/images/radare2-logo.svg" width="40" height="40"/>
-</p>
-
-**Languages**
-
-<p>
   <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img title="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png" width="40" height="40"/>
   <img title="Assembly 68k" src="https://www.svgrepo.com/show/373445/assembly.svg" width="40" height="40"/>
 </p>
 
-**Key Areas**
-- Vulnerability analysis & exploit development
-- Web application security testing
-- WAF/CDN fingerprinting & bypass
-- Buffer overflow & ROP chain exploitation
-- Binary reverse engineering
-- CTF competitions & challenge solving
-
-</details>
-
----
-
-<details>
-<summary>⚙️ &nbsp;<strong>DevSecOps & Automation</strong></summary>
-<br/>
-
-**CI/CD & Pipeline Security**
+**⚙️ DevSecOps & Automation**
 
 <p>
   <img title="Jenkins" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
   <img title="GitHub Actions" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
   <img title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
   <img title="SonarQube" src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" width="40" height="40"/>
-</p>
-
-**Containerisation & Orchestration**
-
-<p>
   <img title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
   <img title="Kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-</p>
-
-**Infrastructure as Code**
-
-<p>
   <img title="Terraform" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/>
   <img title="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
   <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</p>
-
-**Web & Serverless**
-
-<p>
   <img title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
   <img title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
   <img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img title="Nginx" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
 </p>
-
-**Key Areas**
-- Secure CI/CD pipeline design & hardening
-- Container image scanning & runtime security
-- Infrastructure as Code security linting
-- Serverless architecture & deployment automation
-- Automated security testing integration
-- GitOps workflows & secrets management
-
-</details>
 
 ---
 
