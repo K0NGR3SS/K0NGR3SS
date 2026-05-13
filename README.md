@@ -16,11 +16,11 @@
 
 ## 👨‍💻 About Me
 
+- 🇮🇪 **Irish National Cybersecurity Team candidate** for ECSC 2026
+- 🏆 Team Captain at **ZeroDays CTF 2026**: **5th/74 college teams, 18th/147 overall**
 - 🔭 Working on **[WAFPierce](https://github.com/K0NGR3SS/WAFPierce)** and **[GhostState](https://github.com/K0NGR3SS/GhostState)**
 - 🌱 Learning **advanced cloud security, blue teaming, and detection engineering**
 - 🤝 Open to collaboration on **security tools, SOC automation, and cloud security projects**
-- 🏆 Team Captain at **ZeroDays CTF 2026**: **5th/74 college teams, 18th/147 overall**
-- 🇮🇪 **Irish National Cybersecurity Team candidate** for ECSC 2026
 
 ---
 
@@ -38,9 +38,6 @@
 <div align="center">
   <a href="https://github.com/K0NGR3SS/GhostWeights">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=K0NGR3SS&repo=GhostWeights&theme=transparent&hide_border=true&title_color=FACC15&icon_color=FACC15&text_color=C9D1D9&bg_color=0d1117" alt="GhostWeights" />
-  </a>
-  <a href="https://github.com/K0NGR3SS/TCP_Recon_Tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=K0NGR3SS&repo=TCP_Recon_Tool&theme=transparent&hide_border=true&title_color=FACC15&icon_color=FACC15&text_color=C9D1D9&bg_color=0d1117" alt="TCP Recon Tool" />
   </a>
 </div>
 
