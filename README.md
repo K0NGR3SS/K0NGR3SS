@@ -24,25 +24,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/K0NGR3SS/WAFPierce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=K0NGR3SS&repo=WAFPierce&theme=transparent&hide_border=true&title_color=FACC15&icon_color=FACC15&text_color=C9D1D9&bg_color=0d1117" alt="WAFPierce" />
-  </a>
-  <a href="https://github.com/K0NGR3SS/GhostState">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=K0NGR3SS&repo=GhostState&theme=transparent&hide_border=true&title_color=FACC15&icon_color=FACC15&text_color=C9D1D9&bg_color=0d1117" alt="GhostState" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/K0NGR3SS/GhostWeights">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=K0NGR3SS&repo=GhostWeights&theme=transparent&hide_border=true&title_color=FACC15&icon_color=FACC15&text_color=C9D1D9&bg_color=0d1117" alt="GhostWeights" />
-  </a>
-</div>
-
----
-
 ## 🛡️ Tooling & Technical Skills
 
 **☁️ Cloud Security**
