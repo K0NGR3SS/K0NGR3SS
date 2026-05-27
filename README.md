@@ -51,12 +51,12 @@
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=K0NGR3SS&show_icons=true&theme=transparent&hide_border=true&title_color=FACC15&icon_color=FACC15&text_color=C9D1D9&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0NGR3SS&layout=compact&theme=transparent&hide_border=true&title_color=FACC15&text_color=C9D1D9&bg_color=0d1117" alt="Top Languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K0NGR3SS&theme=github_dark" alt="GitHub Stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0NGR3SS&theme=github_dark" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=K0NGR3SS&theme=transparent&hide_border=true&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=K0NGR3SS&theme=dark&hide_border=true&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 </div>
 
 <div align="center">
