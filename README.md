@@ -18,7 +18,6 @@
 
 - 🇮🇪 **Irish National Cybersecurity Team candidate** for ECSC 2026
 - 🏆 Team Captain at **ZeroDays CTF 2026**: **5th/74 college teams, 18th/147 overall**
-- 🔭 Working on **[WAFPierce](https://github.com/K0NGR3SS/WAFPierce)** and **[GhostState](https://github.com/K0NGR3SS/GhostState)**
 - 👨‍💻 Learning **advanced cloud security, blue teaming, and detection engineering**
 - 🤝 Open to collaboration on **security tools, SOC automation, and cloud security projects**
 
