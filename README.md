@@ -50,11 +50,6 @@
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K0NGR3SS&theme=github_dark" alt="GitHub Stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0NGR3SS&theme=github_dark" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=K0NGR3SS&theme=dark&hide_border=true&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 </div>
 
