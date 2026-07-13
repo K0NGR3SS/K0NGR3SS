@@ -17,13 +17,11 @@
 
 ## About me
 
-I'm Nazariy Buryak, a Cybercrime and IT Security student at SETU Carlow. I focus on web and cloud security, threat hunting, security tooling, and bug bounty work.
+I'm a Cybercrime and IT Security student at SETU Carlow. I focus on web and cloud security, threat hunting, security tooling, and bug bounty work.
 
-- Building and using **[WAFPierce](https://github.com/K0NGR3SS/WAFPierce)** for WAF/CDN fingerprinting and bypass testing.
-- Developing security tools that automate repetitive investigation, testing, and cloud-security work.
-- A **Team Ireland member and candidate for ECSC 2026** in Bochum, Germany.
+- A **🇮🇪Team Ireland member and candidate for ECSC 2026** in Bochum, Germany.
 - Qualified for the **WorldSkills Ireland 2026 Cyber Security competition**, taking place in Dublin on 16–18 September 2026.
-- Improving my bug bounty workflow while continuing to study threat hunting, detection, and cloud hardening.
+- Improving my bug-bounty workflow and continuing to develop WAFPierce, which has grown into my daily-use WAF testing tool.
 
 I also really like Art Deco—probably more than a cybersecurity portfolio strictly requires.
 
@@ -75,9 +73,4 @@ I also really like Art Deco—probably more than a cybersecurity portfolio stric
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=K0NGR3SS&bg_color=050812&color=B5C0D3&line=EF3E5C&point=9AB7FF&area=true&area_color=EF3E5C&hide_border=true" alt="Contribution graph" />
 </div>
-
----
-
-<div align="center">
-  <sub>Security tooling · Bug bounty · Cloud security · Threat hunting</sub>
 </div>
