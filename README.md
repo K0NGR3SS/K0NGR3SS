@@ -19,7 +19,7 @@
 
 I'm a Cybercrime and IT Security student at SETU Carlow. I focus on web and cloud security, threat hunting, security tooling, and bug bounty work.
 
-- A **🇮🇪Team Ireland member and candidate for ECSC 2026** in Bochum, Germany.
+- **🇮🇪Team Ireland member and candidate for ECSC 2026** in Bochum, Germany.
 - Qualified for the **WorldSkills Ireland 2026 Cyber Security competition**, taking place in Dublin on 16–18 September 2026.
 - Improving my bug-bounty workflow and continuing to develop WAFPierce, which has grown into my daily-use WAF testing tool.
 
