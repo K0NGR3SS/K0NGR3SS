@@ -6,10 +6,17 @@
 
 **Penetration Testing & Threat Hunting · Cloud & Infrastructure Security · Security Engineering & Monitoring**
 
+**Professional links**
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-k0ngr3ss.dev-EF3E5C?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://k0ngr3ss.dev)
-[![HackerOne](https://img.shields.io/badge/HackerOne-K0NGR3SS-EF3E5C?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/k0ngr3ss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nazariy_Buryak-EF3E5C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazariy-buryak-778433350/)
+
+**Security platforms**
+
+[![HackerOne](https://img.shields.io/badge/HackerOne-K0NGR3SS-EF3E5C?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/k0ngr3ss)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-K0NGR3SS-EF3E5C?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/K0NGR3SS)
+<a href="https://app.skillbit.com/u/K0NGR3SS"><img src="./assets/skillbit.png" height="28" alt="SkillBit Labs" /></a>
+[![SkillBit Labs](https://img.shields.io/badge/SkillBit_Labs-K0NGR3SS-EF3E5C?style=for-the-badge)](https://app.skillbit.com/u/K0NGR3SS)
 
 </div>
 
