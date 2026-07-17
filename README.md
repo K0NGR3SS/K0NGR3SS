@@ -13,7 +13,7 @@
 
 **Security platforms**
 
-[![HackerOne](https://img.shields.io/badge/HackerOne-K0NGR3SS-EF3E5C?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/k0ngr3ss)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-K0NGR3SS-EF3E5C?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/K0NGR3SS)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-K0NGR3SS-EF3E5C?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/K0NGR3SS)
 <a href="https://app.skillbit.com/u/K0NGR3SS"><img src="./assets/skillbit.png" height="28" alt="SkillBit Labs" /></a>
 [![SkillBit Labs](https://img.shields.io/badge/SkillBit_Labs-K0NGR3SS-EF3E5C?style=for-the-badge)](https://app.skillbit.com/u/K0NGR3SS)
@@ -43,38 +43,33 @@ I also really like Art Deco—probably more than a cybersecurity portfolio stric
 
 ## Skills
 
-### Penetration Testing & Threat Hunting
+### Offensive Security
 
-- Web application vulnerability discovery and exploitation.
-- WAF/CDN fingerprinting, bypass validation, and evasion research.
-- Injection, SSRF, authentication, and authorisation testing.
-- Reverse engineering, protocol analysis, and live CTF problem-solving.
+Web and cloud penetration testing | Threat hunting | Reconnaissance | Cryptography | SQL injection | XSS | SSTI | SSRF | Path traversal | IDOR | Broken access control | JWT security testing
 
-### Cloud & Infrastructure Security
+### Programming Languages
 
-- IAM least privilege, network segmentation, and secrets management.
-- Infrastructure-as-Code review and cloud misconfiguration detection.
-- Container, CI/CD, and deployment-pipeline security.
-- Serverless and cloud attack-surface reduction.
+Python | Bash | Go | JavaScript (React) | C | x86/x64 Assembly
 
-### Security Engineering & Monitoring
+### Cloud & Infrastructure
 
-- Custom security tooling, including CLI and TUI applications.
-- Log correlation, threat detection, incident triage, and automation.
-- Network traffic analysis and packet-level investigation.
-- System hardening, vulnerability assessment, and technical reporting.
+AWS | GCP | Docker | GitHub Actions | Terraform and Infrastructure as Code | CI/CD security | IAM and least privilege | Network segmentation | Secrets management
+
+### Analysis & Monitoring
+
+Log analysis and correlation | Threat detection | Incident triage | Network traffic analysis | Vulnerability assessment | System hardening | Technical reporting
 
 ---
 
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=K0NGR3SS&show_icons=true&theme=transparent&hide_border=true&title_color=EF3E5C&icon_color=9AB7FF&text_color=B5C0D3&bg_color=050812" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0NGR3SS&layout=compact&theme=transparent&hide_border=true&title_color=EF3E5C&text_color=B5C0D3&bg_color=050812" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K0NGR3SS&theme=github_dark" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0NGR3SS&theme=github_dark" alt="Top languages by repository" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=K0NGR3SS&theme=transparent&hide_border=true&ring=EF3E5C&fire=EF3E5C&currStreakLabel=EF3E5C&sideLabels=B5C0D3&dates=B5C0D3&currStreakNum=EEF3FB&sideNums=EEF3FB" alt="GitHub streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K0NGR3SS&theme=github_dark&utcOffset=0" alt="GitHub productive time" />
 </div>
 
 <div align="center">
