@@ -69,10 +69,6 @@ Log analysis and correlation | Threat detection | Incident triage | Network traf
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K0NGR3SS&theme=github_dark&utcOffset=0" alt="GitHub productive time" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=K0NGR3SS&bg_color=050812&color=B5C0D3&line=EF3E5C&point=9AB7FF&area=true&area_color=EF3E5C&hide_border=true" alt="Contribution graph" />
 </div>
 </div>
