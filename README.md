@@ -4,7 +4,7 @@
 
 # K0NGR3SS
 
-**Penetration Testing & Threat Hunting · Cloud & Infrastructure Security · Security Engineering & Monitoring**
+**Cybersecurity Student · Security Researcher · Web Security CTF Player**
 
 **Professional links**
 
@@ -24,20 +24,18 @@
 
 ## About me
 
-I'm a Cybercrime and IT Security student at SETU Carlow. I focus on web and cloud security, threat hunting, security tooling, and bug bounty work.
+I'm a cybersecurity student and security researcher at SETU Carlow, and an active CTF player specializing in web security. I'm also a [Team Ireland member and candidate for ECSC 2026](https://ecsc2026.de/).
 
-- **🇮🇪Team Ireland member and candidate for ECSC 2026** in Bochum, Germany.
-- Qualified for the **WorldSkills Ireland 2026 Cyber Security competition**, taking place in Dublin on 16–18 September 2026.
-- Improving my bug-bounty workflow and continuing to develop WAFPierce, which has grown into my daily-use WAF testing tool.
+I'm a new bug bounty enthusiast who identified a vulnerability through NASA's VDP and earned a place in the [NASA Hall of Fame](https://bugcrowd.com/h/K0NGR3SS).
 
 I also really like Art Deco—probably more than a cybersecurity portfolio strictly requires.
 
-## CTFs, competitions & community
+## Achievements
 
-- **EU-CONEXUS ENABLES Hackathon 2026** — helped build Agribloom and placed **2nd**, contributing application features, database integration, and deployment security.
-- **WorldSkills Ireland 2026 Qualifier** — successfully qualified for the Cyber Security main event in September 2026.
-- **SAS CTF 2026** — competed with **Ireland Without the RE** and finished **127th of 512 teams**.
-- **ZeroDays CTF 2026** — Team Captain; finished **5th of 71 college teams** and **18th of 141 overall**, solving Web, Crypto, and Pwn challenges.
+- **[NASA VDP — Hall of Fame](https://bugcrowd.com/h/K0NGR3SS) · July 2026** — identified a vulnerability through NASA's VDP, earned Hall of Fame recognition, and will soon receive a letter of recognition.
+- **[WorldSkills Ireland 2026 Cyber Security Qualifier](https://worldskillsireland.ie/) · June 2026** — successfully qualified and will compete at the national event in September 2026.
+- **[EU-CONEXUS ENABLES Hackathon](https://www.eu-conexus.eu/en/2026/06/22/the-agricultural-university-of-athens-successfully-hosted-the-eu-conexus-enables-hackathon-gamifying-agricultural-biotech-education/) · June 2026** — placed **2nd** as part of the team that developed Agribloom, contributing application features, database integration, and deployment security.
+- **[ZeroDays CTF 2026](https://zerodays.ie/) · March 2026** — Team Captain; finished **5th of 71 college teams** and **18th of 141 overall**, solving Web, Crypto, and Pwn challenges.
 
 ---
 
@@ -45,7 +43,7 @@ I also really like Art Deco—probably more than a cybersecurity portfolio stric
 
 ### Offensive Security
 
-Web and cloud penetration testing | Threat hunting | Reconnaissance | Cryptography | SQL injection | XSS | SSTI | SSRF | Path traversal | IDOR | Broken access control | JWT security testing
+Web and cloud penetration testing | Threat hunting | Reconnaissance | Cryptography | SQL injection | XSS | SSTI | SSRF | Path traversal | Broken access control | JWT security testing
 
 ### Programming Languages
 
@@ -57,7 +55,7 @@ AWS | GCP | Docker | GitHub Actions | Terraform and Infrastructure as Code | CI/
 
 ### Analysis & Monitoring
 
-Log analysis and correlation | Threat detection | Incident triage | Network traffic analysis | Vulnerability assessment | System hardening | Technical reporting
+SIEM | Log analysis and correlation | Threat detection | Incident triage | Network traffic analysis | Vulnerability assessment | System hardening | Technical reporting
 
 ---
 
