@@ -51,8 +51,8 @@ Python | Bash | Go | JavaScript (React) | C | x86/x64 Assembly
 
 ### Cloud & Infrastructure
 
-AWS | GCP | Docker | GitHub Actions | Terraform and Infrastructure as Code | CI/CD security | IAM and least privilege | Network segmentation | Secrets management
-
+AWS | GCP | Docker | GitHub Actions | Terraform and Infrastructure as Code | Database & Caching | CI/CD security | IAM and least privilege | Network segmentation | Secrets management
+ 
 ### Analysis & Monitoring
 
 SIEM | Log analysis and correlation | Threat detection | Incident triage | Network traffic analysis | Vulnerability assessment | System hardening | Technical reporting
